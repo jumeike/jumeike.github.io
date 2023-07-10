@@ -2,7 +2,7 @@
 
 
 # Display name
-title: Simon Gravelle
+title: Johnson Umeike
 
 # Full name (for SEO)
 first_name: Johnson
@@ -16,7 +16,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSCA Fellow
+role: Phd Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -24,13 +24,14 @@ organizations:
     url: https://arg.ku.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computer physicist in soft matter and fluids at interfaces, currently at the LIPhy in Grenoble (France).
+bio: I am a PhD Student at the.
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - Computer Architecture
+  - Data Center Networking
+  - Operating Systems
+  - Emergin Technologies
 
 # Education to show in About widget
 education:
