@@ -79,8 +79,7 @@ highlight_name: true
 
 **About me**
 
-I am a Computer Science PhD student at the University of Kansas in Lawrence (USA) advised by Prof. Mohammad Alian. In my work with the Architecture Research Group, I have explored the optimization of software architectural simulators to enable efficient computer design and reduce energy costs. I am also working on “Device-less Networking” which investigates efficient CPU designs for improved I/O performance. 
-  # In 2022 I received a [MSCA](https://marie-sklodowska-curie-actions.ec.europa.eu/) grant (*NanoSep*) to study the demixing of fluid   mixtures by hybrid nanoporous materials, and I will soon be working at [CNRS](https://www.cnrs.fr/).
+I am a Computer Science PhD student at the University of Kansas in Lawrence (USA) advised by Prof. Mohammad Alian. In my work with the Architecture Research Group, I have explored the optimization of software architectural simulators to enable efficient computer design and reduce energy costs. I am also working on “Device-less Networking” which investigates efficient CPU designs for improved I/O performance.
 
 **Open source and open data**
 
