@@ -5,8 +5,8 @@
 title: Simon Gravelle
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Johnson
+last_name: Umeike
 
 # Status emoji
 status:
@@ -20,8 +20,8 @@ role: MSCA Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, University Grenoble Alpes
-    url: https://liphy.univ-grenoble-alpes.fr/
+  - name: University of Kansas
+    url: https://arg.ku.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a computer physicist in soft matter and fluids at interfaces, currently at the LIPhy in Grenoble (France).
