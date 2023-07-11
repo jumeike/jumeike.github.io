@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: custom_font
-  font_size: M
+  font_size: L
 
 # SEO
 
@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Personal page'
-    twitter: 'Gravellesimon'
+    twitter: 'JohnsonUmeike'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
