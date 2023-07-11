@@ -9,7 +9,7 @@ slides: example
 summary: Neel is presenting our work at FireSim workshop in conjuction with ASPLOS 23'
 tags:
 - Personal
-title: Our research on accelerating gem5 accepted to FireSim Workshop (ASPLOS 23')'
+title: accelerating gem5 work accepted to FireSim Workshop (ASPLOS 23')
 links:
   - icon_pack: fas
     icon: scroll
