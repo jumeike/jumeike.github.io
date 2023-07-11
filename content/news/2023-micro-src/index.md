@@ -1,19 +1,19 @@
 ---
-date: 2023-02-28
-publishDate: 2023-02-28
+date: 202-09-01
+publishDate: 2022-09-1
 external_link: ""
 image:
-  caption: ISPASS logo
+  caption: MICRO logo
   focal_point: Smart
 slides: example
-summary: Our paper on accelerating software-based architectural simulator has been accepted into ISPASS 2023.
+summary: Johnson is presenting a poster at ACM Student Research Competition in MICRO 22'
 tags:
 - Personal
-title: Profiling gem5 paper accepted to ISPASS 23'
+title: Selected to present my poster at the ACM SRC competition
 links:
   - icon_pack: fas
     icon: scroll
     name: Website
     url: 'https://ispass.org/ispass2023/accepted-papers.php'
 ---
-As part of the IEEE proceedings, our paper "profiling gem5 simulator" has been accepted into [ISPASS 23'](https://ispass.org/ispass2023/accepted-papers.php).
+My abstract was selected as the top nine amongst others to participate in the IEEE ACM Student Research Competition (SRC) at the upcoming [MICRO 22'](https://microarch.org/micro55/submit/src.php) conference in Chicago.
