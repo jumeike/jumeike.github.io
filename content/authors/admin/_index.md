@@ -23,14 +23,14 @@ organizations:
     url: https://arg.ku.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Student at the.
+bio: I am a PhD Student working with Dr. Mohammad Alian in the architecture research group in the University of Kansas.
 
 # Interests to show in About widget
 interests:
   - Computer Architecture
   - Data Center Networking
   - Operating Systems
-  - Emergin Technologies
+  - Emerging Technologies
 
 
 # Social/Academic Networking
