@@ -80,7 +80,7 @@ highlight_name: true
 
 **About me**
 
-I am a Computer Science PhD student at the University of Kansas in Lawrence (USA) advised by Prof. Mohammad Alian. In my work with the Architecture Research Group, I have explored the optimization of software architectural simulators to enable efficient computer design and reduce energy costs. I am also working on “Device-less Networking” which investigates efficient CPU designs for improved I/O performance.
+I am a computer science PhD student at the University of Kansas advised by Prof. Mohammad Alian. In my research work, I have explored the optimization of software architectural simulators to enable efficient computer design and reduce energy costs. I am also working on “Device-less Networking” which investigates efficient CPU designs for improved I/O performance.
 
 **Research Interest**
 
@@ -92,5 +92,5 @@ I am a Computer Science PhD student at the University of Kansas in Lawrence (USA
 **weblinks**
 
 * [ARG](https://arg.ku.edu/), Architecture Research Group at KU
-* my [Github](https://github.com/jumeike/) repository containing my works
+* my [Github](https://github.com/jumeike/) repository
 
