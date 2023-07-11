@@ -62,7 +62,7 @@ highlight_name: true
 
 **About me**
 
-I am a 2nd Year computer science PhD student at the University of Kansas advised by [Professor Mohammad Alian](https://alian-eecs.ku.edu). In my work so far in the [Architecture Research Group](https://arg.ku.edu/), we have explored the optimization of software-based architectural simulators to enable efficient computer design and reduce energy costs, profiled the Linux network stack vs. kernel-bypass network stack (eg. DPDK) to identify bottlenecks in high-speed data center networks. I am also working on “Device-less Networking” which investigates efficient CPU architecture for improved I/O performance.
+I am a 2nd Year computer science PhD student at the University of Kansas advised by [Professor Mohammad Alian](https://alian-eecs.ku.edu). In my work so far in the [Architecture Research Group](https://arg.ku.edu/), we have explored the optimization of software-based architectural simulators to enable efficient computer design and reduce energy costs, profiled the Linux network stack vs. kernel-bypass network stack (eg. DPDK) to identify bottlenecks in high-speed data center networks and propose optimizations for enhancing throughput and tail latency. I am also working on “Device-less Networking” which investigates efficient CPU architecture for improved I/O performance. I am an ACM/IEEE member and a student researcher in the [ACE Center for Evolvable Computing](https://acecenter.grainger.illinois.edu/).
 
 **Research Interest**
 
