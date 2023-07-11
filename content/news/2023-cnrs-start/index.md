@@ -3,7 +3,7 @@ date: 2023-02-28
 publishDate: 2023-02-28
 external_link: ""
 image:
-  caption: CNRS logo
+  caption: ISPASS logo
   focal_point: Smart
 slides: example
 summary: Our paper on accelerating software-based architectural simulator has been accepted into ISPASS 2023.
