@@ -11,5 +11,5 @@ links:
   - icon_pack: fas
     icon: scroll
     name: Link
-    url: 'https://ieeexplore.ieee.org/document/1015820'
+    url: 'https://ieeexplore.ieee.org/document/10158201'
 ---
