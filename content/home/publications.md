@@ -7,7 +7,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Last publications
+title: Lastest publications
 # subtitle: 'See also my [Google Scholar](https://scholar.google.com/citations?user=jxApK7gAAAAJ&hl=en).'
 
 content:
