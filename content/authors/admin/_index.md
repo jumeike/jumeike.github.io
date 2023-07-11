@@ -62,11 +62,9 @@ highlight_name: true
 ---
 
 **About me**
-
 I am a 2nd Year computer science PhD student at the University of Kansas advised by [Prof. Mohammad Alian](https://alian.ku.edu). In my work so far in the [Architecture Research Group](https://arg.ku.edu/), we have explored the optimization of software-based architectural simulators to enable efficient computer design and reduce energy costs. I am also working on “Device-less Networking” which investigates efficient CPU architecture for improved I/O performance.
 
 **Research Interest**
-
 * Computer Architecture
 * Data Center Networking
 * Operating Systems
