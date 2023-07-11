@@ -14,6 +14,6 @@ links:
   - icon_pack: fas
     icon: scroll
     name: ISPASS
-    url: 'https://ispass.org/ispass2023/'
+    url: 'https://ispass.org/ispass2023/accepted-papers.php'
 ---
-As part of the IEEE proceedings, our paper "profiling gem5 simulator" has been accepted into [ISPASS 23'](https://ispass.org/ispass2023/).
+As part of the IEEE proceedings, our paper "profiling gem5 simulator" has been accepted into [ISPASS 23'](https://ispass.org/ispass2023/accepted-papers).
