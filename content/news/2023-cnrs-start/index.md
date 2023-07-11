@@ -1,23 +1,19 @@
 ---
-date: 2023-06-29
-publishDate: 2023-06-29
+date: 2023-02-28
+publishDate: 2023-02-28
 external_link: ""
 image:
   caption: CNRS logo
   focal_point: Smart
 slides: example
-summary: I will be mainly working on the separation of fluid mixture using soft matter membrane, in LiPhy, Grenoble.
+summary: Our paper on accelerating software-based architectural simulator has been accepted into ISPASS 2023.
 tags:
 - Personal
-title: I have obtained a position at French CNRS
+title: Profiling gem5 paper accepted to ISPASS 23'
 links:
   - icon_pack: fas
     icon: scroll
-    name: LIPhy
-    url: 'https://liphy.univ-grenoble-alpes.fr/'
-  - icon_pack: fas
-    icon: scroll
-    name: CNRS
-    url: 'https://www.cnrs.fr/fr'
+    name: ISPASS
+    url: 'https://ispass.org/ispass2023/'
 ---
-In the continuity of my MSCA fellowship, I've been hired by the French CNRS (Section 11) as a tenured full time researcher at [LIPhy](https://liphy.univ-grenoble-alpes.fr/) (UGA).
+As part of the IEEE proceedings, our paper "profiling gem5 simulator" has been accepted into [ISPASS 23'](https://ispass.org/ispass2023/).
