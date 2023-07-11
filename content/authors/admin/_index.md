@@ -19,7 +19,7 @@ role: Phd Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Kansas
-    url: https://arg.ku.edu
+    url: https://eecs.ku.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD Student working with Dr. Mohammad Alian in the architecture research group in the University of Kansas.
@@ -62,7 +62,7 @@ highlight_name: true
 
 **About me**
 
-I am a 2nd Year computer science PhD student at the University of Kansas advised by [Professor Mohammad Alian](https://alian-eecs.ku.edu). In my work so far in the [Architecture Research Group](https://arg.ku.edu/), we have explored the optimization of software-based architectural simulators to enable efficient computer design and reduce energy costs, profiled the linux network stack vs. kernel-bypass stack (eg. dpdk) to identify bottlenecks in high-speed data center networks. I am also working on “Device-less Networking” which investigates efficient CPU architecture for improved I/O performance.
+I am a 2nd Year computer science PhD student at the University of Kansas advised by [Professor Mohammad Alian](https://alian-eecs.ku.edu). In my work so far in the [Architecture Research Group](https://arg.ku.edu/), we have explored the optimization of software-based architectural simulators to enable efficient computer design and reduce energy costs, profiled the Linux network stack vs. kernel-bypass network stack (eg. DPDK) to identify bottlenecks in high-speed data center networks. I am also working on “Device-less Networking” which investigates efficient CPU architecture for improved I/O performance.
 
 **Research Interest**
 
