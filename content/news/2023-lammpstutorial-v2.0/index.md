@@ -1,28 +1,19 @@
 ---
-date: 2023-02-05
-publishDate: 2023-02-05
+date: 2023-02-24
+publishDate: 2023-02-24
 external_link: ""
 image:
-  caption: LAMMPS tutorial logo
+  caption: FireSim Logo
   focal_point: Smart
 slides: example
-summary: Now with a new structure and a dark mode!
+summary: Neel is presenting our work at FireSim workshop in conjuction with ASPLOS 23'
 tags:
-- Outreach
-title: The version 2.0 of LAMMPS tutorials has been released
+- Personal
+title: Our research on accelerating gem5 accepted to FireSim Workshop (ASPLOS 23')'
 links:
   - icon_pack: fas
     icon: scroll
     name: Website
-    url: 'https://lammpstutorials.github.io/'
-  - icon_pack: fab
-    icon: github
-    name: Source
-    url: 'https://github.com/lammpstutorials/lammpstutorials.github.io'
+    url: 'https://ispass.org/ispass2023/accepted-papers.php'
 ---
-The [version 2.0](https://lammpstutorials.github.io/) of LAMMPS tutorial has just been published, and offers:
-* a new structure with a sphinx template
-* tutorials are now written in rst format, instead of html, which should facilitate future collaborations
-* a gorgeous dark mode (for the tutorials, not yet for the index page)
-
-The [version 1.0](https://lammpstutorials.github.io/lammpstutorials-version1.0/) is still visible here, but is not maintained and some commands are likely to be obsolete.
+As part of [ASPLOS 23'](https://fires.im/workshop-2023/) workshop session, our research on accelerating architectural simulators has been accepted to the FireSim users and developers workshop.
