@@ -78,6 +78,7 @@ highlight_name: true
 ---
 
 
+
 **About me**
 
 I am a computer science PhD student at the University of Kansas advised by Prof. Mohammad Alian. In my research work, I have explored the optimization of software architectural simulators to enable efficient computer design and reduce energy costs. I am also working on “Device-less Networking” which investigates efficient CPU designs for improved I/O performance.
