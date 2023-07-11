@@ -59,7 +59,7 @@ social:
     link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl=fr
   - icon: github
     icon_pack: fab
-    link: https://github.com/simongravelle
+    link: https://github.com/jumeike
   - icon: gitlab
     icon_pack: fab
     link: https://gitlab.com/sgravelle
@@ -77,17 +77,20 @@ email: ''
 highlight_name: true
 ---
 
+
 **About me**
 
 I am a Computer Science PhD student at the University of Kansas in Lawrence (USA) advised by Prof. Mohammad Alian. In my work with the Architecture Research Group, I have explored the optimization of software architectural simulators to enable efficient computer design and reduce energy costs. I am also working on “Device-less Networking” which investigates efficient CPU designs for improved I/O performance.
 
-**Open source and open data**
+**Research Interest**
 
-* [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html), a Python toolkit for analyzing confined molecular simulations
-* my [Github](https://github.com/simongravelle/) repository containing molecular simulation scripts and data
+* Computer Architecture
+* Data Center Networking
+* Operating Systems
+* Emerging Technologies
 
-**Outreach**
+**weblinks**
 
-* [LAMMPS tutorials](https://lammpstutorials.github.io) for beginners and advanced LAMMPS users
-* [GROMACS tutorials](https://gromacstutorials.github.io) for beginners and advanced GROMACS users
-* [gallery of animations](https://www.youtube.com/@SimonGravelle) of molecular systems
+* [ARG](https://arg.ku.edu/), Architecture Research Group at KU
+* my [Github](https://github.com/jumeike/) repository containing my works
+
