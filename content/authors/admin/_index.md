@@ -1,6 +1,5 @@
 ---
 
-
 # Display name
 title: Johnson Umeike
 
@@ -61,7 +60,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
 
 **About me**
 
