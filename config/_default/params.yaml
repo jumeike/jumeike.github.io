@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Simon Gravelle. This work is licensed under {license}.'
+    notice: '© {year} Johnson Umeike. This work is licensed under {license}.'
     license:
       enable: true
       allow_derivatives: true
@@ -74,7 +74,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/simongravelle/simongravelle.github.io'
+    url: 'https://github.com/jumeike/jumeike.github.io'
     content_dir: content
     branch: master
   avatar:
