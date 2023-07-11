@@ -14,6 +14,6 @@ links:
   - icon_pack: fas
     icon: scroll
     name: Website
-    url: 'https://ispass.org/ispass2023/accepted-papers.php'
+    url: 'https://arg.ku.edu/build/html/ProfilingGem5.html'
 ---
 As part of [ASPLOS 23'](https://fires.im/workshop-2023/) workshop session, our research on accelerating architectural simulators has been accepted to the FireSim users and developers workshop.
