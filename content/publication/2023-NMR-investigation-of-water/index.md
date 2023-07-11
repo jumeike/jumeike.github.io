@@ -1,12 +1,12 @@
 ---
-title: "NMR Investigation of Water in Salt Crusts: Insights from Experiments and Molecular Simulations"
+title: "Profiling gem5 Simulator"
 date: 2023-05-19
-publishDate: 2023-05-19
-authors: ["**Simon Gravelle**", "Sabina Haber-Pohlmeier", "Carlos Mattea", "Siegfried Stapf", "Christian Holm", "Alexander Schlaich"]
+publishDate: 2023-04-23
+authors: ["**Johnson Umeike**", "Neel Patel", "Alex Manley", "Amin Mamandipoor", "Heechul Yun", "Mohammad Alian"]
 publication_types: ["2"]
-abstract: "The evaporation of water from a bare soil is often accompanied by the formation of a layer of crystallized salt, a process that must be understood in order to address the issue of soil salinisation. Here, we use nuclear magnetic relaxation dispersion measurements to better understand the dynamic properties of water within two types of salt crusts: sodium chloride (NaCl) and sodium sulfate (Na2SO4 ). Our experimental results display a stronger dispersion of the relaxation time T1 with frequency for the case of Na2SO4 as compared to NaCl salt crusts. To gain insight into these results, we perform molecular dynamics simulations of salt solutions confined within slit nanopores made of either NaCl or Na2SO4 . We find a strong dependence of the value of the relaxation time T1 on pore size and salt concentration. Our simulations reveal the complex interplay between the adsorption of ions at the solid surface, the structure of water near the interface, and the dispersion of T1 at low frequency, which we attribute to adsorption-desorption events."
+abstract: "In this work, we set out to find the answers to the following questions: (1) Where are the bottlenecks in a state-of-the-art architectural simulator? (2) How much faster can architectural simulations run by tuning system configurations? (3) What are the opportunities in accelerating software simulation using hardware accelerators? We choose gem5 as the representative architectural simulator, run several simulations with various configurations, perform a detailed architectural analysis of the gem5 source code on different server platforms, tune both system and architectural settings for running simulations, and discuss the future opportunities in accelerating gem5 as an important application. Our detailed profiling of gem5 reveals that its performance is extremely sensitive to the size of the L1 cache. Our experimental results show that a RISC-V core with 32KB data and instruction cache improves gem5’s simulation speed by 31%∼61% compared with a baseline core with 8KB L1 caches. Our paper is the first step toward building specialized hardware and software environments for accelerating software-based simulators."
 featured: true
-publication: "Langmuir, 39, 22, 7548–7556"
+publication: "ISPASS, 39, 22, 7548–7556"
 links:
   - icon_pack: fas
     icon: scroll
