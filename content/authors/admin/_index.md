@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Phd Student
+role: Graduate Research Assistant/SRC Research Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
