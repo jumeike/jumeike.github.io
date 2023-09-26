@@ -31,7 +31,7 @@ module:
 ############################
 
 enableGitInfo: false
-summaryLength: 30
+summaryLength: 60
 paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
