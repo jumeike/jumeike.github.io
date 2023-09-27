@@ -97,7 +97,7 @@ features:
   map:
     provider: ''
     api_key: ''
-    zoom: 12
+    zoom: 5
 
 # Extensions
 
