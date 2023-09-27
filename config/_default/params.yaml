@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: custom_font
-  font_size: M
+  font_size: S
 
 # SEO
 
@@ -97,7 +97,7 @@ features:
   map:
     provider: ''
     api_key: ''
-    zoom: 15
+    zoom: 1
 
 # Extensions
 
