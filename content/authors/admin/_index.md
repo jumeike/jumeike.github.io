@@ -72,9 +72,4 @@ Computer networking stands as another captivating arena, where I delve into the 
 
 **Research Interest**
 
-* Computer Architecture
-* Data Center Networking
-* Operating Systems
-* Machine Learning
-* High-Performance Computing
-* Emerging Technologies
+Computer Architecture, Data Center Networking, Operating Systems, Machine Learning, High-Performance Computing, Emerging Technologies
