@@ -68,8 +68,8 @@ In the captivating domain of computer architecture, I have dedicated myself to t
 
 Exploring the intricate landscape of operating systems, I seek to enhance resource management and elevate system-level performance. For instance, I'm currently exploring novel CPU notification techniques for improving the performance of data center applications in todays multi-gigabit/terabit networks where the bottleneck is no longer in the network fabric but has moved to the host. The goal of my work here is to overcome interrupt and polling overheads in today's systems where the advancement in CPU designs has slowed down due to Moore's law and Denard's scaling compared to other I/O technologies.
 
-Computer networking stands as another captivating arena, where I delve into the network stack, security, and scalability to forge resilient and efficient communication infrastructures. Related to host system overhead, I explore different mechanisms for efficient communication especially in the face of the "killer microsecond" and data center taxes. In the realm of machine learning, I navigate a dynamic landscape, harnessing artificial intelligence to tackle difficult challenges and steer data-driven decision-making. My interest encompass the application of machine learning models and inference techniques to push the boundaries of computing systems.
+Computer networking stands as another captivating arena, where I delve into the network stack, security, and scalability to forge resilient and efficient communication infrastructures. Related to host system overhead, I explore different mechanisms for efficient communication especially in the face of the "killer microsecond" and data center taxes.
 
 **Research Interest**
 
-* Computer Architecture, Data Center Networking, Operating Systems, Machine Learning, High-Performance Computing, Emerging Technologies
+_Computer Architecture, Data Center Networking, Operating Systems, Machine Learning, High-Performance Computing, Emerging Technologies_
