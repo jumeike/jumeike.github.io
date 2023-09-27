@@ -36,7 +36,7 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: false
+    show_search: true
     highlight_active_link: true
 
 # Site footer
@@ -125,4 +125,4 @@ disable_codefolding: true
 # Set to show to show all by default, hide to hide all by default - don't put inside quotes
 codefolding_show: show
 # Set to true to exclude the "Show/hide all" button
-codefolding_nobutton: false
+codefolding_nobutton: true
