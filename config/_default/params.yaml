@@ -6,6 +6,7 @@
 # Appearance
 
 appearance:
+  theme: custom_theme
   theme_day: minimal
   theme_night: minimal
   font: custom_font
