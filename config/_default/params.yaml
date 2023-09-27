@@ -32,8 +32,8 @@ marketing:
 
 header:
   navbar:
-    enable: false
-    align: c
+    enable: true
+    align: l
     show_logo: true
     show_language: false
     show_day_night: true
@@ -98,7 +98,7 @@ features:
   map:
     provider: ''
     api_key: ''
-    zoom: 15
+    zoom: 1
 
 # Extensions
 
