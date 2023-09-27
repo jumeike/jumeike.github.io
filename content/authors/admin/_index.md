@@ -67,6 +67,6 @@ In the captivating domain of computer architecture, I have dedicated myself to t
 **Research Interest**
 _Computer Architecture, Data Center Networking, Operating Systems, Machine Learning, High-Performance Computing, Emerging Technologies_
 
-
 My research and academic pursuits traverse the diverse realms of computer science and engineering, where my fascination lies in crafting innovative solutions that redefine performance, energy efficiency, and resource management.
+
 ---
