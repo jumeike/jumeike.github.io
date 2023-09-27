@@ -59,6 +59,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
 **About me**
 I am currently pursuing a MS/PhD in computer engineering/computer science as a second-year student at the University of Kansas under the guidance of [Professor Mohammad Alian](https://alian-eecs.ku.edu). Within the [Architecture Research Group](https://arg.ku.edu/), my focus has been on optimizing software-based architectural simulators and working to push the boundaries of what is possible in data center networks. As part of my academic involvement, I am a member of [NSBE](https://www.nsbe.org/), [ACM](https://www.acm.org/), [IEEE](https://www.ieee.org/) and work as a student researcher at the [ACE Center for Evolvable Computing](https://acecenter.grainger.illinois.edu/). My research and academic pursuits traverse the diverse realms of computer science and engineering, where my fascination lies in crafting innovative solutions that redefine performance, energy efficiency, and resource management.
 
