@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: custom_font
-  font_size: S
+  font_size: L
 
 # SEO
 
@@ -31,8 +31,8 @@ marketing:
 
 header:
   navbar:
-    enable: true
-    align: l
+    enable: false
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
