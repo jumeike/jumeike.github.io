@@ -60,8 +60,8 @@ email: ''
 highlight_name: true
 ---
 
-**About me**
+**About me:-**
 I am currently pursuing a MS/PhD in computer engineering/computer science as a second-year student at the University of Kansas under the guidance of [Professor Mohammad Alian](https://alian-eecs.ku.edu). Within the [Architecture Research Group](https://arg.ku.edu/), my focus has been on optimizing software-based architectural simulators and working to push the boundaries of what is possible in data center networks. As part of my academic involvement, I am a member of [NSBE](https://www.nsbe.org/), [ACM](https://www.acm.org/), [IEEE](https://www.ieee.org/) and work as a student researcher at the [ACE Center for Evolvable Computing](https://acecenter.grainger.illinois.edu/). In the domain of computer architecture, I have dedicated myself to the creation of cutting-edge hardware designs. Notably, I have contributed to the optimization of software architectural simulation tools like gem5, a cornerstone of computer architecture research. Since the OS plays a pivotal role in coordinating and allocating scarce system resources across multiple user-level applications, my primary focus here lies in mitigating the performance bottlenecks attributed to the OS in data center workloads. Computer networking stands as another captivating arena, where I delve into the network stack, and scalability to forge resilient and efficient communication infrastructures. Related to host system overhead, I explore different mechanisms for efficient communication especially in the face of the "killer microsecond" and data center taxes. For instance, I am currently exploring novel CPU notification techniques for improving the performance of data center applications in today's multi-gigabit/terabit networks where the bottleneck has moved from the network fabric to the host. My interest also encompass the application of ML models and inference techniques to push the boundaries of computing systems.
 
-**Research Interest**
+**Research Interest:-**
 _Computer Architecture, Data Center Networking, Operating Systems, Machine Learning, High-Performance Computing, Emerging Technologies_
