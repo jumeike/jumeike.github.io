@@ -5,7 +5,7 @@
 
 main:
   - name: " "
-    weight: 5
+    weight: 25
   - name: Home
     url: '/index.html'
     weight: 10
