@@ -21,19 +21,6 @@ organizations:
   - name: University of Kansas
     url: https://eecs.ku.edu
 
-# Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Student working with Dr. Mohammad Alian in the architecture research group in the University of Kansas.
-
-# Interests to show in About widget
-interests:
-  - Computer Architecture
-  - Data Center Networking
-  - Operating Systems
-  - Machine Learning
-  - High-Performance Computing
-  - Emerging Technologies
-
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
